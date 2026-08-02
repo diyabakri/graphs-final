@@ -1,0 +1,2331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-31">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="movies" type="string" />
+      <attribute id="1" title="years" type="string" />
+      <attribute id="2" title="min_year" type="long" />
+    </attributes>
+    <nodes>
+      <node id="אבי קושניר" label="אבי קושניר" />
+      <node id="אפרת בן צור" label="אפרת בן צור" />
+      <node id="גיל פרנק" label="גיל פרנק" />
+      <node id="אריאל זילבר" label="אריאל זילבר" />
+      <node id="יעל אלמוג" label="יעל אלמוג" />
+      <node id="אסתר רדא" label="אסתר רדא" />
+      <node id="יחזקאל לזרוב" label="יחזקאל לזרוב" />
+      <node id="יעקב זדהדניאל" label="יעקב זדהדניאל" />
+      <node id="שושנה דמארי" label="שושנה דמארי" />
+      <node id="שייקה אופיר" label="שייקה אופיר" />
+      <node id="עמוס אריכא" label="עמוס אריכא" />
+      <node id="זאב רווח" label="זאב רווח" />
+      <node id="חני נחמיאס" label="חני נחמיאס" />
+      <node id="אלי דנקר" label="אלי דנקר" />
+      <node id="אשר צרפתי" label="אשר צרפתי" />
+      <node id="אלברט אילוז" label="אלברט אילוז" />
+      <node id="שלמה וישינסקי" label="שלמה וישינסקי" />
+      <node id="עזרא כפרי" label="עזרא כפרי" />
+      <node id="יונה אליאן" label="יונה אליאן" />
+      <node id="יוסי גרבר" label="יוסי גרבר" />
+      <node id="מוני מושונוב" label="מוני מושונוב" />
+      <node id="כרמל בתו" label="כרמל בתו" />
+      <node id="ליילה מלקוס" label="ליילה מלקוס" />
+      <node id="חיים זנאתי" label="חיים זנאתי" />
+      <node id="הגר בן אשר" label="הגר בן אשר" />
+      <node id="חיים בוזגלו" label="חיים בוזגלו" />
+      <node id="סמדר קילצ'ינסקי" label="סמדר קילצ'ינסקי" />
+      <node id="עמוס לביא" label="עמוס לביא" />
+      <node id="צופית גרנט" label="צופית גרנט" />
+      <node id="דור צויגנבום" label="דור צויגנבום" />
+      <node id="אבי גילאור" label="אבי גילאור" />
+      <node id="אימרי ביטון" label="אימרי ביטון" />
+      <node id="ריימונד אמסלם" label="ריימונד אמסלם" />
+      <node id="אביתר לזר" label="אביתר לזר" />
+      <node id="מיכאל וייגל" label="מיכאל וייגל" />
+      <node id="שלמה סדן" label="שלמה סדן" />
+      <node id="רונן הרשקוביץ" label="רונן הרשקוביץ" />
+      <node id="אריאל כהן" label="אריאל כהן" />
+      <node id="יעקב זדה דניאל" label="יעקב זדה דניאל" />
+      <node id="יהודה גרובייס" label="יהודה גרובייס" />
+      <node id="יוסי סגל" label="יוסי סגל" />
+      <node id="אברהם סלקטר" label="אברהם סלקטר" />
+      <node id="רוברט הניג" label="רוברט הניג" />
+      <node id="אליאו בן זאב" label="אליאו בן זאב" />
+      <node id="שי חי" label="שי חי" />
+      <node id="אבי גרייניק" label="אבי גרייניק" />
+      <node id="גילי שושן" label="גילי שושן" />
+      <node id="ארקדי דוכין" label="ארקדי דוכין" />
+      <node id="ישי לפידות" label="ישי לפידות" />
+      <node id="טיילור מלכוב" label="טיילור מלכוב" />
+      <node id="ששי גז" label="ששי גז" />
+      <node id="איציק שמלי" label="איציק שמלי" />
+      <node id="יוסף שילוח" label="יוסף שילוח" />
+      <node id="מוסקו אלקלעי" label="מוסקו אלקלעי" />
+      <node id="טליה שפירא" label="טליה שפירא" />
+      <node id="דורי בן זאב" label="דורי בן זאב" />
+      <node id="מרדכי בן זאב" label="מרדכי בן זאב" />
+      <node id="אבנר חזקיהו" label="אבנר חזקיהו" />
+      <node id="מרים גבריאלי" label="מרים גבריאלי" />
+      <node id="הילה וידור" label="הילה וידור" />
+      <node id="תום אבני" label="תום אבני" />
+      <node id="אניה בוקשטיין" label="אניה בוקשטיין" />
+      <node id="שרון סטרימבן" label="שרון סטרימבן" />
+      <node id="מגי אזרזר" label="מגי אזרזר" />
+      <node id="רועי אסף" label="רועי אסף" />
+      <node id="יואב לוי" label="יואב לוי" />
+      <node id="גל פרידמן" label="גל פרידמן" />
+      <node id="הלנה ירלובה" label="הלנה ירלובה" />
+      <node id="נטשה מנור" label="נטשה מנור" />
+      <node id="לירון לבו" label="לירון לבו" />
+      <node id="יעקב בודו" label="יעקב בודו" />
+      <node id="רחל דיין" label="רחל דיין" />
+      <node id="יעקב אלפרין" label="יעקב אלפרין" />
+      <node id="אירית מאירי" label="אירית מאירי" />
+      <node id="יהודית קרוננפלד" label="יהודית קרוננפלד" />
+      <node id="אריקה פייפר" label="אריקה פייפר" />
+      <node id="קרול פלדמן" label="קרול פלדמן" />
+      <node id="אייל שכטר" label="אייל שכטר" />
+      <node id="לי את גליק" label="לי את גליק" />
+      <node id="גדעון שמר" label="גדעון שמר" />
+      <node id="נעה בירון" label="נעה בירון" />
+      <node id="נטע שפיגלמן" label="נטע שפיגלמן" />
+      <node id="דובי גל" label="דובי גל" />
+      <node id="ניצה שאול" label="ניצה שאול" />
+      <node id="אורי בנאי" label="אורי בנאי" />
+      <node id="מריה אובנוב" label="מריה אובנוב" />
+      <node id="ג'ולי הגרטי" label="ג'ולי הגרטי" />
+      <node id="עמוס קולק" label="עמוס קולק" />
+      <node id="דודו טופז" label="דודו טופז" />
+      <node id="אביבה גר" label="אביבה גר" />
+      <node id="שמואל שילה" label="שמואל שילה" />
+      <node id="יוסי מרשק" label="יוסי מרשק" />
+      <node id="שמואל קלדרון" label="שמואל קלדרון" />
+      <node id="סמנתה אגר" label="סמנתה אגר" />
+      <node id="ג'ון בנג'מין היקי" label="ג'ון בנג'מין היקי" />
+      <node id="ניב ניסים" label="ניב ניסים" />
+      <node id="ליהי קורנובסקי" label="ליהי קורנובסקי" />
+      <node id="מיקי קם" label="מיקי קם" />
+      <node id="עמרי לוקאס" label="עמרי לוקאס" />
+      <node id="תמיר גינזבורג" label="תמיר גינזבורג" />
+      <node id="אורי פפר" label="אורי פפר" />
+      <node id="שלומי קוריאט" label="שלומי קוריאט" />
+      <node id="טלי שרון" label="טלי שרון" />
+      <node id="נתי קלוגר" label="נתי קלוגר" />
+      <node id="דניאל ליטמן" label="דניאל ליטמן" />
+      <node id="עדי גילת" label="עדי גילת" />
+      <node id="עוז זהבי" label="עוז זהבי" />
+      <node id="והינה ג'יוקנטה" label="והינה ג'יוקנטה" />
+      <node id="רחל טטרקו" label="רחל טטרקו" />
+      <node id="דוד רם" label="דוד רם" />
+      <node id="יצחק בנש" label="יצחק בנש" />
+      <node id="מרגלית שמיט" label="מרגלית שמיט" />
+      <node id="ששון סער" label="ששון סער" />
+      <node id="הילה סעדה" label="הילה סעדה" />
+      <node id="דן שפירא" label="דן שפירא" />
+      <node id="אלון אבוטבול" label="אלון אבוטבול" />
+    </nodes>
+    <edges>
+      <edge source="אבי קושניר" target="אפרת בן צור" id="0" weight="1">
+        <attvalues>
+          <attvalue for="0" value="אווה (סרט, 2016)" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016" />
+        </attvalues>
+      </edge>
+      <edge source="אבי קושניר" target="גיל פרנק" id="1" weight="1">
+        <attvalues>
+          <attvalue for="0" value="אווה (סרט, 2016)" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016" />
+        </attvalues>
+      </edge>
+      <edge source="אפרת בן צור" target="גיל פרנק" id="2" weight="1">
+        <attvalues>
+          <attvalue for="0" value="אווה (סרט, 2016)" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016" />
+        </attvalues>
+      </edge>
+      <edge source="אריאל זילבר" target="יעל אלמוג" id="3" weight="1">
+        <attvalues>
+          <attvalue for="0" value="אושר ללא גבול" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="אסתר רדא" target="יחזקאל לזרוב" id="4" weight="1">
+        <attvalues>
+          <attvalue for="0" value="אשת השגריר" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016" />
+        </attvalues>
+      </edge>
+      <edge source="אסתר רדא" target="יעקב זדהדניאל" id="5" weight="1">
+        <attvalues>
+          <attvalue for="0" value="אשת השגריר" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016" />
+        </attvalues>
+      </edge>
+      <edge source="יחזקאל לזרוב" target="יעקב זדהדניאל" id="6" weight="1">
+        <attvalues>
+          <attvalue for="0" value="אשת השגריר" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016" />
+        </attvalues>
+      </edge>
+      <edge source="שושנה דמארי" target="שייקה אופיר" id="7" weight="1">
+        <attvalues>
+          <attvalue for="0" value="באין מולדת" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="1956" />
+        </attvalues>
+      </edge>
+      <edge source="שושנה דמארי" target="עמוס אריכא" id="8" weight="1">
+        <attvalues>
+          <attvalue for="0" value="באין מולדת" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="1956" />
+        </attvalues>
+      </edge>
+      <edge source="שייקה אופיר" target="עמוס אריכא" id="9" weight="1">
+        <attvalues>
+          <attvalue for="0" value="באין מולדת" />
+          <attvalue for="1" value="1956" />
+          <attvalue for="2" value="1956" />
+        </attvalues>
+      </edge>
+      <edge source="זאב רווח" target="חני נחמיאס" id="10" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="זאב רווח" target="אלי דנקר" id="11" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="זאב רווח" target="אשר צרפתי" id="12" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="זאב רווח" target="אלברט אילוז" id="13" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="זאב רווח" target="שלמה וישינסקי" id="14" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="זאב רווח" target="עזרא כפרי" id="15" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="זאב רווח" target="יונה אליאן" id="16" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="זאב רווח" target="יוסי גרבר" id="17" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="חני נחמיאס" target="אלי דנקר" id="18" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="חני נחמיאס" target="אשר צרפתי" id="19" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="חני נחמיאס" target="אלברט אילוז" id="20" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="חני נחמיאס" target="שלמה וישינסקי" id="21" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="חני נחמיאס" target="עזרא כפרי" id="22" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="חני נחמיאס" target="יונה אליאן" id="23" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="חני נחמיאס" target="יוסי גרבר" id="24" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלי דנקר" target="אשר צרפתי" id="25" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלי דנקר" target="אלברט אילוז" id="26" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלי דנקר" target="שלמה וישינסקי" id="27" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלי דנקר" target="עזרא כפרי" id="28" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלי דנקר" target="יונה אליאן" id="29" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלי דנקר" target="יוסי גרבר" id="30" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אשר צרפתי" target="אלברט אילוז" id="31" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אשר צרפתי" target="שלמה וישינסקי" id="32" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אשר צרפתי" target="עזרא כפרי" id="33" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אשר צרפתי" target="יונה אליאן" id="34" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אשר צרפתי" target="יוסי גרבר" id="35" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלברט אילוז" target="שלמה וישינסקי" id="36" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלברט אילוז" target="עזרא כפרי" id="37" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלברט אילוז" target="יונה אליאן" id="38" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="אלברט אילוז" target="יוסי גרבר" id="39" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה וישינסקי" target="עזרא כפרי" id="40" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה וישינסקי" target="יונה אליאן" id="41" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה וישינסקי" target="יוסי גרבר" id="42" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="עזרא כפרי" target="יונה אליאן" id="43" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="עזרא כפרי" target="יוסי גרבר" id="44" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="עזרא כפרי" target="מוני מושונוב" id="45" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בסמה מוצ'ו (סרט)" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+        </attvalues>
+      </edge>
+      <edge source="עזרא כפרי" target="כרמל בתו" id="46" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בסמה מוצ'ו (סרט)" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+        </attvalues>
+      </edge>
+      <edge source="עזרא כפרי" target="ליילה מלקוס" id="47" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בסמה מוצ'ו (סרט)" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+        </attvalues>
+      </edge>
+      <edge source="עזרא כפרי" target="אייל שכטר" id="48" weight="1">
+        <attvalues>
+          <attvalue for="0" value="לנגד עיניים מערביות" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="עזרא כפרי" target="לי את גליק" id="49" weight="1">
+        <attvalues>
+          <attvalue for="0" value="לנגד עיניים מערביות" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="עזרא כפרי" target="גדעון שמר" id="50" weight="1">
+        <attvalues>
+          <attvalue for="0" value="לנגד עיניים מערביות" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="יונה אליאן" target="יוסי גרבר" id="51" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בובה (סרט)" />
+          <attvalue for="1" value="1987" />
+          <attvalue for="2" value="1987" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="כרמל בתו" id="52" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בסמה מוצ'ו (סרט)" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="ליילה מלקוס" id="53" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בסמה מוצ'ו (סרט)" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="אניה בוקשטיין" id="54" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="שרון סטרימבן" id="55" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="מגי אזרזר" id="56" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="רועי אסף" id="57" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="יואב לוי" id="58" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="גל פרידמן" id="59" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="הלנה ירלובה" id="60" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="נטשה מנור" id="61" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מוני מושונוב" target="לירון לבו" id="62" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="כרמל בתו" target="ליילה מלקוס" id="63" weight="1">
+        <attvalues>
+          <attvalue for="0" value="בסמה מוצ'ו (סרט)" />
+          <attvalue for="1" value="2000" />
+          <attvalue for="2" value="2000" />
+        </attvalues>
+      </edge>
+      <edge source="חיים זנאתי" target="הגר בן אשר" id="64" weight="1">
+        <attvalues>
+          <attvalue for="0" value="ג'וליה מיה" />
+          <attvalue for="1" value="2007" />
+          <attvalue for="2" value="2007" />
+        </attvalues>
+      </edge>
+      <edge source="חיים זנאתי" target="חיים בוזגלו" id="65" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים זנאתי" target="סמדר קילצ'ינסקי" id="66" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים זנאתי" target="עמוס לביא" id="67" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים זנאתי" target="צופית גרנט" id="68" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים זנאתי" target="דור צויגנבום" id="69" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים זנאתי" target="אבי גילאור" id="70" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים בוזגלו" target="סמדר קילצ'ינסקי" id="71" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים בוזגלו" target="עמוס לביא" id="72" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים בוזגלו" target="צופית גרנט" id="73" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים בוזגלו" target="דור צויגנבום" id="74" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="חיים בוזגלו" target="אבי גילאור" id="75" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="סמדר קילצ'ינסקי" target="עמוס לביא" id="76" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="סמדר קילצ'ינסקי" target="צופית גרנט" id="77" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="סמדר קילצ'ינסקי" target="דור צויגנבום" id="78" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="סמדר קילצ'ינסקי" target="אבי גילאור" id="79" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="עמוס לביא" target="צופית גרנט" id="80" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="עמוס לביא" target="דור צויגנבום" id="81" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="עמוס לביא" target="אבי גילאור" id="82" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="צופית גרנט" target="דור צויגנבום" id="83" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="צופית גרנט" target="אבי גילאור" id="84" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="דור צויגנבום" target="אבי גילאור" id="85" weight="1">
+        <attvalues>
+          <attvalue for="0" value="דיסטורשן (סרט)" />
+          <attvalue for="1" value="2005" />
+          <attvalue for="2" value="2005" />
+        </attvalues>
+      </edge>
+      <edge source="אימרי ביטון" target="ריימונד אמסלם" id="86" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הבית ברחוב פין (סרט)" />
+          <attvalue for="1" value="2024" />
+          <attvalue for="2" value="2024" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="מיכאל וייגל" id="87" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="שלמה סדן" id="88" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="רונן הרשקוביץ" id="89" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="אריאל כהן" id="90" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="יעקב זדה דניאל" id="91" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="יהודה גרובייס" id="92" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="יוסי סגל" id="93" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="אברהם סלקטר" id="94" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אביתר לזר" target="רוברט הניג" id="95" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="מיכאל וייגל" target="שלמה סדן" id="96" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="מיכאל וייגל" target="רונן הרשקוביץ" id="97" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="מיכאל וייגל" target="אריאל כהן" id="98" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="מיכאל וייגל" target="יעקב זדה דניאל" id="99" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="מיכאל וייגל" target="יהודה גרובייס" id="100" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="מיכאל וייגל" target="יוסי סגל" id="101" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="מיכאל וייגל" target="אברהם סלקטר" id="102" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="מיכאל וייגל" target="רוברט הניג" id="103" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה סדן" target="רונן הרשקוביץ" id="104" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה סדן" target="אריאל כהן" id="105" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה סדן" target="יעקב זדה דניאל" id="106" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה סדן" target="יהודה גרובייס" id="107" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה סדן" target="יוסי סגל" id="108" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה סדן" target="אברהם סלקטר" id="109" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="שלמה סדן" target="רוברט הניג" id="110" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="אריאל כהן" id="111" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="יעקב זדה דניאל" id="112" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="יהודה גרובייס" id="113" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="יוסי סגל" id="114" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="אברהם סלקטר" id="115" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="רוברט הניג" id="116" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="אליאו בן זאב" id="117" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="שי חי" id="118" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="אבי גרייניק" id="119" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="גילי שושן" id="120" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="ארקדי דוכין" id="121" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="ישי לפידות" id="122" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="טיילור מלכוב" id="123" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="ששי גז" id="124" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="רונן הרשקוביץ" target="איציק שמלי" id="125" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אריאל כהן" target="יעקב זדה דניאל" id="126" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אריאל כהן" target="יהודה גרובייס" id="127" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אריאל כהן" target="יוסי סגל" id="128" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אריאל כהן" target="אברהם סלקטר" id="129" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אריאל כהן" target="רוברט הניג" id="130" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב זדה דניאל" target="יהודה גרובייס" id="131" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב זדה דניאל" target="יוסי סגל" id="132" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב זדה דניאל" target="אברהם סלקטר" id="133" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב זדה דניאל" target="רוברט הניג" id="134" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יהודה גרובייס" target="יוסי סגל" id="135" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יהודה גרובייס" target="אברהם סלקטר" id="136" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יהודה גרובייס" target="רוברט הניג" id="137" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יוסי סגל" target="אברהם סלקטר" id="138" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="יוסי סגל" target="רוברט הניג" id="139" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אברהם סלקטר" target="רוברט הניג" id="140" weight="1">
+        <attvalues>
+          <attvalue for="0" value="הנקמה היהודית (סדרת סרטים)" />
+          <attvalue for="1" value="2003" />
+          <attvalue for="2" value="2003" />
+        </attvalues>
+      </edge>
+      <edge source="אליאו בן זאב" target="שי חי" id="141" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אליאו בן זאב" target="אבי גרייניק" id="142" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אליאו בן זאב" target="גילי שושן" id="143" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אליאו בן זאב" target="ארקדי דוכין" id="144" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אליאו בן זאב" target="ישי לפידות" id="145" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אליאו בן זאב" target="טיילור מלכוב" id="146" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אליאו בן זאב" target="ששי גז" id="147" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אליאו בן זאב" target="איציק שמלי" id="148" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="שי חי" target="אבי גרייניק" id="149" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="שי חי" target="גילי שושן" id="150" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="שי חי" target="ארקדי דוכין" id="151" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="שי חי" target="ישי לפידות" id="152" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="שי חי" target="טיילור מלכוב" id="153" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="שי חי" target="ששי גז" id="154" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="שי חי" target="איציק שמלי" id="155" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אבי גרייניק" target="גילי שושן" id="156" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אבי גרייניק" target="ארקדי דוכין" id="157" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אבי גרייניק" target="ישי לפידות" id="158" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אבי גרייניק" target="טיילור מלכוב" id="159" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אבי גרייניק" target="ששי גז" id="160" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אבי גרייניק" target="איציק שמלי" id="161" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="גילי שושן" target="ארקדי דוכין" id="162" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="גילי שושן" target="ישי לפידות" id="163" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="גילי שושן" target="טיילור מלכוב" id="164" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="גילי שושן" target="ששי גז" id="165" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="גילי שושן" target="איציק שמלי" id="166" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="ארקדי דוכין" target="ישי לפידות" id="167" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="ארקדי דוכין" target="טיילור מלכוב" id="168" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="ארקדי דוכין" target="ששי גז" id="169" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="ארקדי דוכין" target="איציק שמלי" id="170" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="ישי לפידות" target="טיילור מלכוב" id="171" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="ישי לפידות" target="ששי גז" id="172" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="ישי לפידות" target="איציק שמלי" id="173" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="טיילור מלכוב" target="ששי גז" id="174" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="טיילור מלכוב" target="איציק שמלי" id="175" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="ששי גז" target="איציק שמלי" id="176" weight="1">
+        <attvalues>
+          <attvalue for="0" value="התכשיט" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="יוסף שילוח" target="מוסקו אלקלעי" id="177" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="יוסף שילוח" target="טליה שפירא" id="178" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="יוסף שילוח" target="דורי בן זאב" id="179" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="יוסף שילוח" target="מרדכי בן זאב" id="180" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="יוסף שילוח" target="אבנר חזקיהו" id="181" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="יוסף שילוח" target="מרים גבריאלי" id="182" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="מוסקו אלקלעי" target="טליה שפירא" id="183" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="מוסקו אלקלעי" target="דורי בן זאב" id="184" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="מוסקו אלקלעי" target="מרדכי בן זאב" id="185" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="מוסקו אלקלעי" target="אבנר חזקיהו" id="186" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="מוסקו אלקלעי" target="מרים גבריאלי" id="187" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="טליה שפירא" target="דורי בן זאב" id="188" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="טליה שפירא" target="מרדכי בן זאב" id="189" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="טליה שפירא" target="אבנר חזקיהו" id="190" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="טליה שפירא" target="מרים גבריאלי" id="191" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="דורי בן זאב" target="מרדכי בן זאב" id="192" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="דורי בן זאב" target="אבנר חזקיהו" id="193" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="דורי בן זאב" target="מרים גבריאלי" id="194" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="מרדכי בן זאב" target="אבנר חזקיהו" id="195" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="מרדכי בן זאב" target="מרים גבריאלי" id="196" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="אבנר חזקיהו" target="מרים גבריאלי" id="197" weight="1">
+        <attvalues>
+          <attvalue for="0" value="חגיגה לעיניים" />
+          <attvalue for="1" value="1975" />
+          <attvalue for="2" value="1975" />
+        </attvalues>
+      </edge>
+      <edge source="הילה וידור" target="תום אבני" id="198" weight="1">
+        <attvalues>
+          <attvalue for="0" value="ככה את אוהבת" />
+          <attvalue for="1" value="2019" />
+          <attvalue for="2" value="2019" />
+        </attvalues>
+      </edge>
+      <edge source="תום אבני" target="הילה סעדה" id="199" weight="1">
+        <attvalues>
+          <attvalue for="0" value="שמיים וארץ (סרט)" />
+          <attvalue for="1" value="2026" />
+          <attvalue for="2" value="2026" />
+        </attvalues>
+      </edge>
+      <edge source="אניה בוקשטיין" target="שרון סטרימבן" id="200" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="אניה בוקשטיין" target="מגי אזרזר" id="201" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="אניה בוקשטיין" target="רועי אסף" id="202" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="אניה בוקשטיין" target="יואב לוי" id="203" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="אניה בוקשטיין" target="גל פרידמן" id="204" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="אניה בוקשטיין" target="הלנה ירלובה" id="205" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="אניה בוקשטיין" target="נטשה מנור" id="206" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="אניה בוקשטיין" target="לירון לבו" id="207" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="שרון סטרימבן" target="מגי אזרזר" id="208" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="שרון סטרימבן" target="רועי אסף" id="209" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="שרון סטרימבן" target="יואב לוי" id="210" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="שרון סטרימבן" target="גל פרידמן" id="211" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="שרון סטרימבן" target="הלנה ירלובה" id="212" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="שרון סטרימבן" target="נטשה מנור" id="213" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="שרון סטרימבן" target="לירון לבו" id="214" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מגי אזרזר" target="רועי אסף" id="215" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מגי אזרזר" target="יואב לוי" id="216" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מגי אזרזר" target="גל פרידמן" id="217" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מגי אזרזר" target="הלנה ירלובה" id="218" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מגי אזרזר" target="נטשה מנור" id="219" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="מגי אזרזר" target="לירון לבו" id="220" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="רועי אסף" target="יואב לוי" id="221" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="רועי אסף" target="גל פרידמן" id="222" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="רועי אסף" target="הלנה ירלובה" id="223" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="רועי אסף" target="נטשה מנור" id="224" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="רועי אסף" target="לירון לבו" id="225" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="יואב לוי" target="גל פרידמן" id="226" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="יואב לוי" target="הלנה ירלובה" id="227" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="יואב לוי" target="נטשה מנור" id="228" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="יואב לוי" target="לירון לבו" id="229" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="גל פרידמן" target="הלנה ירלובה" id="230" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="גל פרידמן" target="נטשה מנור" id="231" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="גל פרידמן" target="לירון לבו" id="232" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="הלנה ירלובה" target="נטשה מנור" id="233" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="הלנה ירלובה" target="לירון לבו" id="234" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="נטשה מנור" target="לירון לבו" id="235" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כל מה שאני יכולה" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב בודו" target="רחל דיין" id="236" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב בודו" target="יעקב אלפרין" id="237" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב בודו" target="אירית מאירי" id="238" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב בודו" target="יהודית קרוננפלד" id="239" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב בודו" target="אריקה פייפר" id="240" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב בודו" target="קרול פלדמן" id="241" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="רחל דיין" target="יעקב אלפרין" id="242" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="רחל דיין" target="אירית מאירי" id="243" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="רחל דיין" target="יהודית קרוננפלד" id="244" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="רחל דיין" target="אריקה פייפר" id="245" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="רחל דיין" target="קרול פלדמן" id="246" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב אלפרין" target="אירית מאירי" id="247" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב אלפרין" target="יהודית קרוננפלד" id="248" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב אלפרין" target="אריקה פייפר" id="249" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יעקב אלפרין" target="קרול פלדמן" id="250" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="אירית מאירי" target="יהודית קרוננפלד" id="251" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="אירית מאירי" target="אריקה פייפר" id="252" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="אירית מאירי" target="קרול פלדמן" id="253" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יהודית קרוננפלד" target="אריקה פייפר" id="254" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="יהודית קרוננפלד" target="קרול פלדמן" id="255" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="אריקה פייפר" target="קרול פלדמן" id="256" weight="1">
+        <attvalues>
+          <attvalue for="0" value="כשנותנים - קח!" />
+          <attvalue for="1" value="1982" />
+          <attvalue for="2" value="1982" />
+        </attvalues>
+      </edge>
+      <edge source="אייל שכטר" target="לי את גליק" id="257" weight="1">
+        <attvalues>
+          <attvalue for="0" value="לנגד עיניים מערביות" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="אייל שכטר" target="גדעון שמר" id="258" weight="1">
+        <attvalues>
+          <attvalue for="0" value="לנגד עיניים מערביות" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="לי את גליק" target="גדעון שמר" id="259" weight="1">
+        <attvalues>
+          <attvalue for="0" value="לנגד עיניים מערביות" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="נעה בירון" target="נטע שפיגלמן" id="260" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מונטנה (סרט)" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2017" />
+        </attvalues>
+      </edge>
+      <edge source="דובי גל" target="ניצה שאול" id="261" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מי האבא?" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="דובי גל" target="אורי בנאי" id="262" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מי האבא?" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="דובי גל" target="מריה אובנוב" id="263" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מי האבא?" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="ניצה שאול" target="אורי בנאי" id="264" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מי האבא?" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="ניצה שאול" target="מריה אובנוב" id="265" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מי האבא?" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="אורי בנאי" target="מריה אובנוב" id="266" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מי האבא?" />
+          <attvalue for="1" value="1996" />
+          <attvalue for="2" value="1996" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ולי הגרטי" target="עמוס קולק" id="267" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ולי הגרטי" target="דודו טופז" id="268" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ולי הגרטי" target="אביבה גר" id="269" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ולי הגרטי" target="שמואל שילה" id="270" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="עמוס קולק" target="דודו טופז" id="271" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="עמוס קולק" target="אביבה גר" id="272" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="עמוס קולק" target="שמואל שילה" id="273" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="דודו טופז" target="אביבה גר" id="274" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="דודו טופז" target="שמואל שילה" id="275" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="אביבה גר" target="שמואל שילה" id="276" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מניו יורק באהבה" />
+          <attvalue for="1" value="1985" />
+          <attvalue for="2" value="1985" />
+        </attvalues>
+      </edge>
+      <edge source="יוסי מרשק" target="שמואל קלדרון" id="277" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מנפאואר (סרט)" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2014" />
+        </attvalues>
+      </edge>
+      <edge source="יוסי מרשק" target="סמנתה אגר" id="278" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מנפאואר (סרט)" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2014" />
+        </attvalues>
+      </edge>
+      <edge source="שמואל קלדרון" target="סמנתה אגר" id="279" weight="1">
+        <attvalues>
+          <attvalue for="0" value="מנפאואר (סרט)" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2014" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ון בנג'מין היקי" target="ניב ניסים" id="280" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ון בנג'מין היקי" target="ליהי קורנובסקי" id="281" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ון בנג'מין היקי" target="מיקי קם" id="282" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ון בנג'מין היקי" target="עמרי לוקאס" id="283" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ג'ון בנג'מין היקי" target="תמיר גינזבורג" id="284" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ניב ניסים" target="ליהי קורנובסקי" id="285" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ניב ניסים" target="מיקי קם" id="286" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ניב ניסים" target="עמרי לוקאס" id="287" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ניב ניסים" target="תמיר גינזבורג" id="288" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ליהי קורנובסקי" target="מיקי קם" id="289" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ליהי קורנובסקי" target="עמרי לוקאס" id="290" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="ליהי קורנובסקי" target="תמיר גינזבורג" id="291" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="מיקי קם" target="עמרי לוקאס" id="292" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="מיקי קם" target="תמיר גינזבורג" id="293" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="עמרי לוקאס" target="תמיר גינזבורג" id="294" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סאבלט (סרט)" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="2020" />
+        </attvalues>
+      </edge>
+      <edge source="אורי פפר" target="שלומי קוריאט" id="295" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סנולנד" />
+          <attvalue for="1" value="1980" />
+          <attvalue for="2" value="1980" />
+        </attvalues>
+      </edge>
+      <edge source="אורי פפר" target="טלי שרון" id="296" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סנולנד" />
+          <attvalue for="1" value="1980" />
+          <attvalue for="2" value="1980" />
+        </attvalues>
+      </edge>
+      <edge source="אורי פפר" target="נתי קלוגר" id="297" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סנולנד" />
+          <attvalue for="1" value="1980" />
+          <attvalue for="2" value="1980" />
+        </attvalues>
+      </edge>
+      <edge source="שלומי קוריאט" target="טלי שרון" id="298" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סנולנד" />
+          <attvalue for="1" value="1980" />
+          <attvalue for="2" value="1980" />
+        </attvalues>
+      </edge>
+      <edge source="שלומי קוריאט" target="נתי קלוגר" id="299" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סנולנד" />
+          <attvalue for="1" value="1980" />
+          <attvalue for="2" value="1980" />
+        </attvalues>
+      </edge>
+      <edge source="טלי שרון" target="נתי קלוגר" id="300" weight="1">
+        <attvalues>
+          <attvalue for="0" value="סנולנד" />
+          <attvalue for="1" value="1980" />
+          <attvalue for="2" value="1980" />
+        </attvalues>
+      </edge>
+      <edge source="דניאל ליטמן" target="עדי גילת" id="301" weight="1">
+        <attvalues>
+          <attvalue for="0" value="עד שתחזור (סרט)" />
+          <attvalue for="1" value="2022" />
+          <attvalue for="2" value="2022" />
+        </attvalues>
+      </edge>
+      <edge source="עוז זהבי" target="והינה ג'יוקנטה" id="302" weight="1">
+        <attvalues>
+          <attvalue for="0" value="פרדייס קרוז" />
+          <attvalue for="1" value="2013" />
+          <attvalue for="2" value="2013" />
+        </attvalues>
+      </edge>
+      <edge source="רחל טטרקו" target="דוד רם" id="303" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="רחל טטרקו" target="יצחק בנש" id="304" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="רחל טטרקו" target="מרגלית שמיט" id="305" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="רחל טטרקו" target="ששון סער" id="306" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="דוד רם" target="יצחק בנש" id="307" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="דוד רם" target="מרגלית שמיט" id="308" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="דוד רם" target="ששון סער" id="309" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="יצחק בנש" target="מרגלית שמיט" id="310" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="יצחק בנש" target="ששון סער" id="311" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="מרגלית שמיט" target="ששון סער" id="312" weight="1">
+        <attvalues>
+          <attvalue for="0" value="רחל (סרט)" />
+          <attvalue for="1" value="1960" />
+          <attvalue for="2" value="1960" />
+        </attvalues>
+      </edge>
+      <edge source="דן שפירא" target="אלון אבוטבול" id="313" weight="1">
+        <attvalues>
+          <attvalue for="0" value="תיאום כוונות (ספר)" />
+          <attvalue for="1" value="1999" />
+          <attvalue for="2" value="1999" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

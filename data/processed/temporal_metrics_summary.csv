@@ -1,0 +1,4 @@
+Era,Nodes (|V|),Edges (|E|),Density,Avg Clustering (C),Num CC,GCC Size,GCC Ratio,GCC Radius,GCC Diameter,Avg Degree <k>,Max Degree
+Era_A_Pre1970,8,13,0.46429,1.0,2,5,0.625,1,1,3.25,4
+Era_B_1970_1990,32,94,0.18952,1.0,5,9,0.2812,1,1,5.88,8
+Era_C_1990_Present,77,207,0.07075,0.7685,15,19,0.2468,1,2,5.38,18
